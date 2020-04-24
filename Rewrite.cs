@@ -8,6 +8,7 @@ namespace Rewrite {
 		public static int CompoundAssignment(int N) {
 			return ((3 * N) * 2) + 1;
 		}
+		
 		public static int Sum(int N) {
 			return (N * N + N) / 2;
 		}
