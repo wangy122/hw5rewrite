@@ -8,6 +8,7 @@ def loop1(N):
         while( i < N):
 		if i % 2 != 0:
 	            total = cos(i)
+		
                 a = i
                 i = a + 1
 	return total
