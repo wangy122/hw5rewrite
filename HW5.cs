@@ -19,7 +19,8 @@ namespace HW5 {			// Don't change namespace
 		       if (obj == null) {
                                 return false;
                         }
-         
+      
+			
                         Type type = obj.GetType();
                         Type stringType = Type.GetType("System.String");
            	        string sobj;
